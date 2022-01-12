@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IIT.Glid.Gestion_Formation.Domain/1.0.0": {
+        "runtime": {
+          "IIT.Glid.Gestion_Formation.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IIT.Glid.Gestion_Formation.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

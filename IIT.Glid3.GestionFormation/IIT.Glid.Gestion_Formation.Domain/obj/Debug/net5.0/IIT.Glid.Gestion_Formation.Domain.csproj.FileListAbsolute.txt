@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\bin\Debug\net5.0\IIT.Glid.Gestion_Formation.Domain.deps.json
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\bin\Debug\net5.0\IIT.Glid.Gestion_Formation.Domain.dll
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\bin\Debug\net5.0\ref\IIT.Glid.Gestion_Formation.Domain.dll
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\bin\Debug\net5.0\IIT.Glid.Gestion_Formation.Domain.pdb
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\obj\Debug\net5.0\IIT.Glid.Gestion_Formation.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\obj\Debug\net5.0\IIT.Glid.Gestion_Formation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\obj\Debug\net5.0\IIT.Glid.Gestion_Formation.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\obj\Debug\net5.0\IIT.Glid.Gestion_Formation.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\obj\Debug\net5.0\IIT.Glid.Gestion_Formation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\obj\Debug\net5.0\IIT.Glid.Gestion_Formation.Domain.dll
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\obj\Debug\net5.0\ref\IIT.Glid.Gestion_Formation.Domain.dll
+C:\Users\Lenovo\source\repos\IIT.Glid3.GestionFormation\IIT.Glid.Gestion_Formation.Domain\obj\Debug\net5.0\IIT.Glid.Gestion_Formation.Domain.pdb
